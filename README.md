@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ansh Chauhan
-- 👀 I’m interested in Full Stack Web Development and competitive Coding.
+- 👀 I’m interested in Full Stack Web Development and Competitive Coding.
 - 🌱 I’m currently learning Backend Developement.
 - 💞️ I’m looking to collaborate on Frontend Development projects.
 - 📫 How to reach me ansh.chauhan15apr@gmail.com
