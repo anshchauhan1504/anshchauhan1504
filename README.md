@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a final year student at VIT Bhopal University pursuing B.Tech in CSE. Coding and Video games keep me alive. I am an enthusiastic person who loves to take up new challenges and learn new skills.</h4>
+<h4 align="center">I am a final year student at VIT Bhopal University pursuing B.Tech in CSE.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SUBS2905&label=Profile%20views&color=0e75b6&style=plastic" alt="SUBS2905" /> </p>
 
@@ -75,10 +75,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subhransu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshchauhan1504&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ansh's github stats" src="https://github-readme-stats.vercel.app/api?username=anshchauhan1504&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshchauhan1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SUBS2905" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshchauhan1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anshchauhan1504" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -88,7 +88,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/anshchauhan1504"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshchauhan1504&custom_title=Subhransu%20Majhi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/anshchauhan1504"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshchauhan1504&custom_title=Ansh%Chauhan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
