@@ -83,16 +83,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/anshchauhan1504"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshchauhan1504&custom_title=Ansh%Chauhan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Let's Connect
