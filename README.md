@@ -88,7 +88,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/SUBS2905"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SUBS2905&custom_title=Subhransu%20Majhi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/anshchauhan1504"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SUBS2905&custom_title=Subhransu%20Majhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -98,7 +98,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:subhranshumajhi2@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/SUBS2905"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/anshchauhan1504"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/subhransu-m-a98252209"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/subhranshu_majhi"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
