@@ -75,10 +75,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subhransu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SUBS2905&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subhransu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshchauhan1504&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SUBS2905&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SUBS2905" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshchauhan1504&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SUBS2905" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -88,7 +88,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/anshchauhan1504"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SUBS2905&custom_title=Subhransu%20Majhi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/anshchauhan1504"><img alt="Subhransu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshchauhan1504&custom_title=Subhransu%20Majhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
