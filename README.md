@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SUBS2905&label=Profile%20views&color=0e75b6&style=plastic" alt="SUBS2905" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://streak-stats.demolab.com?user=SUBS2905&theme=blue-green" alt="SUBS2905"  /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=anshchauhan1504&theme=blue-green" alt="SUBS2905"  /></p>
 
 
 ## 🛠️ My Skills
